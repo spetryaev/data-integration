@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b8aa11a-47cd-41b2-a773-e6a479aef875" name="Default Changelist" comment="" />
+    <list default="true" id="5b8aa11a-47cd-41b2-a773-e6a479aef875" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/dataintegration/model/Customer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/dataintegration/model/Customer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/dataintegration/util/MockDataWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/dataintegration/DataIntegrationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/dataintegration/DataIntegrationApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sfedu/dataintegration/DataIntegrationApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/sfedu/dataintegration/DataIntegrationApplication.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,8 +38,10 @@
   </component>
   <component name="ProjectId" id="1RCScLlaDncLhGuAj3Y7hGejwmg" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -46,7 +62,7 @@
   <component name="RunManager">
     <configuration name="DataIntegrationApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.sfedu.dataintegration.DataIntegrationApplication" />
-      <module name="dataintegration" />
+      <module name="data-integration" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.sfedu.dataintegration.*" />
@@ -75,10 +91,22 @@
       <updated>1569169662188</updated>
       <workItem from="1569169663660" duration="465000" />
       <workItem from="1569606146289" duration="104000" />
+      <workItem from="1569606668081" duration="10942000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
