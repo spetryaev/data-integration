@@ -29,7 +29,7 @@ public class MockDataWriter {
         for(int i = 0; i < nameExamples.size(); i++){
             customers1.add(new Customer1(
                     nameExamples.get(random.nextInt(nameExamples.size())),
-                    String.valueOf(random.nextInt(100) * 1024 * 1024),
+                    String.valueOf(random.nextInt(100) * 1024 * 523),
                     LocalDate.now().format(formatter),
                     "City" + random.nextInt(100),
                     "Street" + random.nextInt(100),
@@ -51,7 +51,7 @@ public class MockDataWriter {
 
         for(int i = 0; i < nameExamples.size(); i++){
             Customer2 customer = new Customer2(
-                    String.valueOf(random.nextInt(100) * 1024),
+                    String.valueOf(random.nextInt(100) * 352),
                     LocalDate.now().format(formatter),
                     "City" + random.nextInt(100)
                             + " Street" + random.nextInt(100)

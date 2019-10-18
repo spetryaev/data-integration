@@ -2,16 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b8aa11a-47cd-41b2-a773-e6a479aef875" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/dataintegration/model/Customer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/dataintegration/model/Customer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/dataintegration/util/MockDataWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/dataintegration/DataIntegrationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/dataintegration/DataIntegrationApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/sfedu/dataintegration/DataIntegrationApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/sfedu/dataintegration/DataIntegrationApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/customer1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer2/Deimos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/customer2/Deimos.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer2/Earth.csv" beforeDir="false" afterPath="$PROJECT_DIR$/customer2/Earth.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer2/Gaspra.csv" beforeDir="false" afterPath="$PROJECT_DIR$/customer2/Gaspra.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer2/Haumea.csv" beforeDir="false" afterPath="$PROJECT_DIR$/customer2/Haumea.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer2/Jupiter.csv" beforeDir="false" afterPath="$PROJECT_DIR$/customer2/Jupiter.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer2/Mars.csv" beforeDir="false" afterPath="$PROJECT_DIR$/customer2/Mars.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer2/Mercury.csv" beforeDir="false" afterPath="$PROJECT_DIR$/customer2/Mercury.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer2/Neptune.csv" beforeDir="false" afterPath="$PROJECT_DIR$/customer2/Neptune.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer2/Phobos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/customer2/Phobos.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer2/Pluto.csv" beforeDir="false" afterPath="$PROJECT_DIR$/customer2/Pluto.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer2/Saturn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/customer2/Saturn.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer2/Uranus.csv" beforeDir="false" afterPath="$PROJECT_DIR$/customer2/Uranus.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer2/Venus.csv" beforeDir="false" afterPath="$PROJECT_DIR$/customer2/Venus.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/dataintegration/util/MockDataWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/dataintegration/util/MockDataWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sfedu/dataintegration/model/TheCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sfedu/dataintegration/model/csv/Customer1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sfedu/dataintegration/model/csv/Customer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sfedu/dataintegration/util/MockDataWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/sfedu/dataintegration/util/MockDataWriter.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +101,7 @@
       <workItem from="1569169663660" duration="465000" />
       <workItem from="1569606146289" duration="104000" />
       <workItem from="1569606668081" duration="10942000" />
+      <workItem from="1569705720670" duration="755000" />
     </task>
     <servers />
   </component>
@@ -103,7 +113,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
