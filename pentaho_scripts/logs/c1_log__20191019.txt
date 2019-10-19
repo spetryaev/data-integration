@@ -1,0 +1,48 @@
+2019/10/19 02:29:47 - Transformation - Using run configuration [Pentaho local]
+2019/10/19 02:29:47 - Transformation - Using legacy execution engine
+2019/10/19 02:29:47 - c_1 - Dispatching started for transformation [c_1]
+2019/10/19 02:29:48 - customer 1 data input.0 - Opening file: file:///C:/Users/User/Documents/university_projects/data-integration/data/import_csv/customer1.csv
+2019/10/19 02:29:48 - customer 1 data input.0 - Finished processing (I=14, O=0, R=0, W=26, U=1, E=0)
+2019/10/19 02:29:48 - Add constants.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:29:48 - Replace in string.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:29:48 - Address.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:29:48 - KB to GB.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:29:48 - Zip file.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:29:48 - Insert / update.0 - Finished processing (I=13, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:30:53 - Transformation - Using run configuration [Pentaho local]
+2019/10/19 02:30:53 - Transformation - Using legacy execution engine
+2019/10/19 02:30:53 - c_1 - Dispatching started for transformation [c_1]
+2019/10/19 02:30:53 - customer 1 data input.0 - Opening file: file:///C:/Users/User/Documents/university_projects/data-integration/data/import_csv/customer1.csv
+2019/10/19 02:30:53 - customer 1 data input.0 - Finished processing (I=14, O=0, R=0, W=26, U=1, E=0)
+2019/10/19 02:30:53 - Add constants.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:30:53 - Replace in string.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:30:53 - Address.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:30:53 - KB to GB.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:30:53 - Insert / update.0 - Finished processing (I=13, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:30:53 - Zip file.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:40:58 - Transformation - Using run configuration [Pentaho local]
+2019/10/19 02:40:58 - Transformation - Using legacy execution engine
+2019/10/19 02:40:58 - c_1 - Dispatching started for transformation [c_1]
+2019/10/19 02:40:58 - customer 1 data input.0 - Opening file: file:///C:/Users/User/Documents/university_projects/data-integration/data/import_csv/customer1.csv
+2019/10/19 02:40:58 - customer 1 data input.0 - Finished processing (I=14, O=0, R=0, W=26, U=1, E=0)
+2019/10/19 02:40:58 - Add constants.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:40:58 - Replace in string.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:40:58 - Address.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:40:58 - KB to GB.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:40:58 - Insert / update.0 - Finished processing (I=13, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:40:58 - Zip file.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:48:12 - Transformation - Opening transformation: [file:///C:/Users/User/Documents/university_projects/data-integration/pentaho_scripts/c_1.ktr]
+2019/10/19 02:48:13 - Transformation - Starting transformation...(file=${Internal.Entry.Current.Directory}/c_1.ktr, name=Transformation, repinfo=null)
+2019/10/19 02:48:13 - Transformation - Using run configuration [Pentaho local]
+2019/10/19 02:48:13 - Transformation - Using legacy execution engine
+2019/10/19 02:48:13 - c_1 - Transformation is pre-loaded.
+2019/10/19 02:48:13 - c_1 - nr of steps to run : 7  , nr of hops : 6
+2019/10/19 02:48:13 - c_1 - Dispatching started for transformation [c_1]
+2019/10/19 02:48:13 - customer 1 data input.0 - Opening file: file:///C:/Users/User/Documents/university_projects/data-integration/pentaho_scripts/import_csv/customer1.csv
+2019/10/19 02:48:13 - customer 1 data input.0 - Finished processing (I=14, O=0, R=0, W=26, U=1, E=0)
+2019/10/19 02:48:13 - Add constants.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:48:13 - Replace in string.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:48:13 - Address.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:48:13 - KB to GB.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:48:13 - Insert / update.0 - Finished processing (I=13, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 02:48:13 - Zip file.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)

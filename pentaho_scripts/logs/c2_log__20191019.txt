@@ -1,0 +1,24 @@
+2019/10/19 00:48:58 - Transformation - Using run configuration [Pentaho local]
+2019/10/19 00:48:58 - Transformation - Using legacy execution engine
+2019/10/19 00:48:58 - c_2 - Dispatching started for transformation [c_2]
+2019/10/19 00:48:58 - customer 2 data input.0 - Opening file: file:///C:/Users/User/Documents/university_projects/data-integration/data/import_csv/customer2/Deimos.csv
+2019/10/19 00:48:58 - customer 2 data input.0 - Opening file: file:///C:/Users/User/Documents/university_projects/data-integration/data/import_csv/customer2/Earth.csv
+2019/10/19 00:48:58 - customer 2 data input.0 - Opening file: file:///C:/Users/User/Documents/university_projects/data-integration/data/import_csv/customer2/Gaspra.csv
+2019/10/19 00:48:58 - customer 2 data input.0 - Opening file: file:///C:/Users/User/Documents/university_projects/data-integration/data/import_csv/customer2/Haumea.csv
+2019/10/19 00:48:58 - get customer 2 filenames.0 - Finished processing (I=0, O=0, R=0, W=26, U=0, E=0)
+2019/10/19 00:48:58 - customer 2 data input.0 - Opening file: file:///C:/Users/User/Documents/university_projects/data-integration/data/import_csv/customer2/Jupiter.csv
+2019/10/19 00:48:58 - customer 2 data input.0 - Opening file: file:///C:/Users/User/Documents/university_projects/data-integration/data/import_csv/customer2/Mars.csv
+2019/10/19 00:48:58 - customer 2 data input.0 - Opening file: file:///C:/Users/User/Documents/university_projects/data-integration/data/import_csv/customer2/Mercury.csv
+2019/10/19 00:48:58 - customer 2 data input.0 - Opening file: file:///C:/Users/User/Documents/university_projects/data-integration/data/import_csv/customer2/Neptune.csv
+2019/10/19 00:48:58 - customer 2 data input.0 - Opening file: file:///C:/Users/User/Documents/university_projects/data-integration/data/import_csv/customer2/Phobos.csv
+2019/10/19 00:48:58 - customer 2 data input.0 - Opening file: file:///C:/Users/User/Documents/university_projects/data-integration/data/import_csv/customer2/Pluto.csv
+2019/10/19 00:48:58 - customer 2 data input.0 - Opening file: file:///C:/Users/User/Documents/university_projects/data-integration/data/import_csv/customer2/Saturn.csv
+2019/10/19 00:48:58 - customer 2 data input.0 - Opening file: file:///C:/Users/User/Documents/university_projects/data-integration/data/import_csv/customer2/Uranus.csv
+2019/10/19 00:48:58 - customer 2 data input.0 - Opening file: file:///C:/Users/User/Documents/university_projects/data-integration/data/import_csv/customer2/Venus.csv
+2019/10/19 00:48:58 - customer 2 data input.0 - Finished processing (I=26, O=0, R=0, W=13, U=13, E=0)
+2019/10/19 00:48:58 - Replace in string.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 00:48:58 - Account Name.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 00:48:58 - Add constants 2.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 00:48:58 - MB to GB.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 00:48:58 - Insert / update 2.0 - Finished processing (I=13, O=0, R=13, W=13, U=0, E=0)
+2019/10/19 00:48:58 - Zip file.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
